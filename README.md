@@ -57,4 +57,8 @@ $ ./bin/phpunit
 [3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
 [4]: https://symfony.com/download
 [5]: https://github.com/symfony/webpack-encore
+
+
 # codeChallengeX134
+--This challenge uses annotations
+composer require annotations
